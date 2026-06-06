@@ -1,0 +1,8 @@
+node_modules/
+frontend-smartcommunity/node_modules/
+frontend-smartcommunity/dist/
+target/
+.idea/
+*.class
+.DS_Store
+.env
